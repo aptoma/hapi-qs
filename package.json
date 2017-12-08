@@ -1,6 +1,6 @@
 {
   "name": "@aptoma/hapi-qs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Hapi plugin for parsing querystring with qs lib",
   "main": "index.js",
   "scripts": {
